@@ -55,7 +55,3 @@ padding: 10px;
     display:block;
     margin:0 auto;
 }
-.backColor{
-    height: 100hv;
-    background: linear-gradient(45deg, top right, #333 50%,#fff 50%);
-}
